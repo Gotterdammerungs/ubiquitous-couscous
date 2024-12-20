@@ -2,16 +2,12 @@
 	{
 		"name": "Wolf",
 		"unitType": "Melee",
-		"uniqueTo": "Wolf",
-		"replaces": "",
+		"uniqueTo": "Wolves",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"strength": 32,
+		"cost": 300,
+		"requiredTech": "Trapping",
+		"requiredRessource": "Furs",
+		"uniques": "Ignores terrain cost",
 	}
 ]
