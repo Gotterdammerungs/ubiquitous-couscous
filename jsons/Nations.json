@@ -29,7 +29,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": ["No defensive terrain penalty","Comment [Hi Ali, stop reading this now or you ate an apple. Anna is epic]"]
+		"unique": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.","No defensive terrain penalty","Comment [Hi Ali, stop reading this now or you ate an apple. Anna is epic]"]
 		"cities": ["city"]
 	}
 ]
